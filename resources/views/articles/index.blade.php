@@ -40,6 +40,8 @@
 
         p {
             text-align: center;
+
+
         }
 
         hr {
@@ -56,6 +58,8 @@
 
 
         <a href="http://127.0.0.1:8000/welcome"> Page LARAVEL</a>
+
+        <a href="http://127.0.0.1:8000/dbconn"> Vérification Connexion</a>
     </p>
     <hr>
 

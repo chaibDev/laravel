@@ -42,7 +42,7 @@
             <?php
 
             if (DB::connection()->getPdo()) {
-                echo "db diagram io  Vous Vous êtes connecté avec succès à votre base de données  " . DB::connection()->getDatabaseName();
+                echo " Vous Vous êtes connecté avec succès à votre base de données  " . DB::connection()->getDatabaseName();
             }
 
 
